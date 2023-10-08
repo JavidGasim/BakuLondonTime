@@ -1,0 +1,17 @@
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\bin\Debug\net6.0-windows\BakuLondonTime.exe
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\bin\Debug\net6.0-windows\BakuLondonTime.deps.json
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\bin\Debug\net6.0-windows\BakuLondonTime.runtimeconfig.json
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\bin\Debug\net6.0-windows\BakuLondonTime.dll
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\bin\Debug\net6.0-windows\BakuLondonTime.pdb
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.Form1.resources
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.Properties.Resources.resources
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.csproj.GenerateResource.cache
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.AssemblyInfo.cs
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.csproj.CoreCompileInputs.cache
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.dll
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\refint\BakuLondonTime.dll
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.pdb
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\BakuLondonTime.genruntimeconfig.cache
+C:\Users\gasim\source\repos\BakuLondonTime\BakuLondonTime\obj\Debug\net6.0-windows\ref\BakuLondonTime.dll
